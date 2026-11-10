@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: weavleo10.github.io/devlog
+  baseUrl: lweav10.github.io/devlog
   ignorePatterns:
     - private
     - templates
