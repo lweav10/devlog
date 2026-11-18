@@ -71,10 +71,13 @@ $$
 |This is the first cell of the first row of the table; It is very long|Cell 2 short|The next cell is empty||
 |1|2|3|4|
 
-> Quote thing
+> Callouts
 
 >[!info] Info
 >This might be an info block
 
 >[!error] Error
 >This might be an error block
+
+>[!example]- How to print to console
+> `Console.WriteLine("Your text here");`
