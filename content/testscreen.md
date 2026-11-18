@@ -32,7 +32,7 @@ This is a testing screen so i can see how various markdown elements appear on th
 This is a single line of code: `string name = Console.ReadLine();`
 
 ### Multilines
-```C#
+```csharp
 static void Main(){
     string language = "CSharp";
     int number = 37;
