@@ -1,11 +1,8 @@
 ---
 publish: true
-tags:
-  - progress
 ---
-# Info
----
-> Date: 13/11/2026
+> [!info]
+> Date Created: 13/11/2026
 > Time Spent: 1 hour
 ---
 # Progress
